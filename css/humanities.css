@@ -1,0 +1,127 @@
+#topbg {
+    background-image: url(../img/humanities_bg.jpg)
+}
+#lnb > ul > li > a:hover {
+    color: #dbd2cb
+}
+
+section {}
+
+#cont1 {
+    width: 960px;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+#title {
+    width: 460px;
+    position: relative;
+    float: left;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+#title > .tl {
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+}
+#title > .tr {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+#title > h3 {
+    text-align: center;
+}
+#cont1 > p {
+    width: 460px;
+    float: left;
+}
+
+#mainimg {
+    width: 100%;
+    height: 800px;
+    background: url(../img/humanities_02.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#cont2 {
+    width: 960px;
+    margin: 0 auto; margin-top: 60px;}
+
+
+#cont3 {
+    width: 960px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+#cont3-1 {
+    width: 210px;
+    margin-right: 40px;
+    float: left;
+}
+#cont3-1 > .tt {
+    font-weight: 500;
+}
+#cont3-1 > span {
+    margin: 15px 0 15px 5px;
+    display: block;
+    height: 315px;
+    border-left: 1px solid #000;
+    
+}
+#cont3-1 > .tb {
+    font-size: 36px;
+    line-height: 40px;
+}
+#cont3 > img {
+    width: 710px;
+    float: left;
+}
+#cont4 {
+    width: 960px;
+    height: 630px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+#cont4 > p {
+    padding-left: 250px;
+    width: 710px;
+    word-spacing: -1.5px;
+}
+
+#cont5 {
+    width: 960px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 60px;
+}
+#box {
+    position: absolute;
+    right: 0;
+    width: 710px;
+    height: 290px;
+    background-color: #f0f0e8;
+    padding: 30px;
+    box-sizing: border-box;
+}
+#box > h4 {
+    font-size: 20px;
+}
+#box > p {
+    margin-top: 10px;
+}
+#box > small {
+    padding-top: 30px;
+    text-align: right;
+    float: right;
+}
+
+
+
+
+
+

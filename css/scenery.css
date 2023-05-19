@@ -1,0 +1,284 @@
+#topbg {
+    background-image: url(../img/secenery_bg.jpg)
+}
+
+#lnb > ul > li > a:hover {
+    color: #f4e0de
+}
+
+section {}
+
+#cont1 {
+    width: 100%;
+    height: 1080px;
+    background-color: #f9f9f9;
+}
+
+#cont1-1 {
+    width: 960px;
+    height: 830px;
+    margin: 0 auto;
+    padding-top: 150px;
+    position: relative;
+}
+
+#cont1-1 > h3 {
+    width: 335px;
+    text-align: center;
+    float: left;
+    position: relative;
+}
+
+#cont1-1 > h3 > .tl {
+    position: absolute;
+    top: 8px;
+    left: 0;
+
+}
+
+#cont1-1 > h3 > .tr {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+#cont1-1 > p {
+    width: 335px;
+    position: absolute;
+    top: 300px;
+    word-spacing: -1px;
+}
+
+#cont1-1 > small {
+    width: 151px;
+    position: absolute;
+    bottom: 0;
+    left: 185px;
+    text-align: right;
+    border-top: 1px solid #888;
+    padding-top: 5px;
+
+}
+
+#cont1-1 > img {
+    width: 585px;
+    float: left;
+    padding-left: 40px;
+}
+
+
+
+#cont2 {
+    width: 960px;
+    height: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#cont2 > img {
+    width: 710px;
+    height: 710px;
+    float: left;
+    padding-right: 40px;
+    padding-top: 100px;
+    ;
+}
+
+#cont2 > small {
+    float: left;
+    position: absolute;
+    top: 770px;
+    border-bottom: 1px solid #888;
+    padding-bottom: 5px
+}
+
+#cont2 > h3 {
+    height: 145px;
+    padding-top: 40px;
+    padding-right: 40px;
+    float: left;
+}
+
+#cont2 > p {
+    width: 688px;
+    padding-top: 40px;
+    float: left;
+    word-spacing: -3px;
+}
+
+
+#cont3 {
+    height: 1970px;
+    background-color: #f9f9f9;
+    padding-top: 100px;
+}
+
+#cont3-1 {
+    width: 960px;
+    height: 1040px;
+    margin: 0 auto;
+
+}
+
+#cont3-1 > img {
+    width: 960px;
+}
+
+#cont3-1 > h3 {
+    padding-top: 40px;
+    float: left;
+    width: 750px;
+    margin-right: 40px;
+}
+
+#cont3-1 > small {
+    width: 170px;
+    float: left;
+    text-align: right;
+    border-top: 1px solid #888;
+    padding-top: 5px;
+    margin-top: 40px;
+}
+
+#cont3-1 > p {
+    float: left;
+    width: 598px;
+    padding-top: 20px;
+}
+
+#cont3-2 {
+    width: 960px;
+    height: 400px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+#cont3-2 > img {
+    width: 600px;
+    float: left;
+    padding-right: 40px;
+}
+
+#cont3-2 > p {
+    width: 320px;
+    height: 363px;
+    float: left;
+}
+
+#cont3-2 > small {
+    float: left;
+    border-bottom: 1px solid #888;
+    padding-bottom: 5px;
+}
+
+#cont3-3 {
+    padding-top: 60px;;
+     width: 960px;
+    height: 342px;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: ;
+}
+
+#cont3-3 > p {
+   width: 600px;
+    padding-right: 40px;
+    float : left;
+}
+#cont3-3 > img {
+    width: 320px;
+    float : left;
+}
+
+#cont3-3 > small {
+    float: left;
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    left: 345px;
+    border-bottom: 1px solid #888;
+    padding-bottom: 5px;
+}
+
+
+#cont4 {
+    width: 960px;
+    height: 2200px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+#cont4-1 {
+    height: 780px;
+}
+#cont4-1 > img {
+    padding-bottom: 40px;
+}
+#cont4-1 > h3 {
+    float: left;
+    width: 763px;
+}
+#cont4-1 > small {
+    float: left;
+    text-align: right;
+    border-top: 1px solid #888;
+    padding-top: 5px;
+}
+
+#cont4-2 {
+    width: 960px;
+    height: 465px;
+    padding-top: 40px;
+    position: relative;
+}
+#cont4-2 > p {
+    width: 280px;
+    float: left;
+    padding-right: 40px;
+    word-spacing: -1px;
+}
+#cont4-2 > img {
+    width: 640px;
+    float: left;
+}
+#cont4-2 > small {
+    position: absolute;
+    bottom: 0;
+    left: 150px;
+    float: left;
+    text-align: right;
+    border-bottom: 1px solid #888;
+    padding-bottom: 5px;
+}
+
+
+#cont4-3 {
+    width: 960px;
+    padding-top: 60px;
+}
+#cont4-3 > img {
+    width: 710px;
+    padding-right: 40px;
+    float: left;
+}
+#cont4-3 > small {
+    width: 190px;
+    float: left;
+    border-top: 1px solid #888;
+    padding-top: 5px;
+    padding-bottom: 665px;
+}
+#cont4-3 > p {
+    margin-left: 70px;
+    line-height: 30px;
+    color: #999;
+    width: 140px;
+    float: left;
+    text-align: right;
+    border-top: 1px solid #999 ;
+    border-bottom: 1px solid #999 
+}
+
+
+
+

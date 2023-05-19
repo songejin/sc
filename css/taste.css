@@ -1,0 +1,418 @@
+@charset "utf-8";
+
+#topbg {
+    background-image: url(../img/taste_bg.jpg);
+}
+
+#lnb > ul > li > a:hover {
+    color: #f4d6d6
+}
+
+
+#cont1 {
+    width: 100%;
+    height: 400px;
+    background-color: #f9f9f9;
+    padding-top: 150px;
+}
+#cont1-1 {
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+    position: relative;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+#cont1-1 > h3 {
+    width: 460px;
+    padding-top: 20px;
+}
+#cont1-1 > p {
+    width: 460px;
+    padding-top: 55px;
+}
+#cont1-1 > img {
+    width: 460px;
+    position: absolute;
+    right: 0;
+    top: 30px;
+}
+
+#cont2 {
+    width: 960px;
+    height: 1200px;
+    margin: 0 auto;
+    padding-top: 100px;
+    position: relative;
+}
+#cont2 > .img1-1 {
+   width: 960px;
+    padding-bottom: 40px;
+}
+#cont2 > h4 {
+    width: 300px;
+    float: left;
+}
+#cont2 > span {
+    float: left;
+    display: block;
+    border-bottom: 1px solid #000;
+    width: 660px;
+    padding-top: 30px;
+}
+#cont2 > h3 {
+    padding-top: 60px;
+}
+#cont2 > p {
+    width: 590px;
+    padding-top: 120px;
+}
+#cont2 > small {
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+}
+
+#cont2 > .img1-2 {
+    position: absolute;
+    bottom: 100px;
+    right: 0;
+}
+
+#cont3 {
+    width: 100%;
+    height: 870px;
+    background-color: #f9f9f9;
+    padding-top: 100px;
+    
+}
+#cont3-1 {
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+ }
+
+#cont3-1 > .img2-1 {
+    height: 379px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+#cont3-1 > .img2-2 {
+    height: 379px;
+    padding-bottom: 40px;
+}
+
+#cont3-1 > h4 {
+    width: 335px;
+    float: left;
+}
+#cont3-1 > span {
+    float: left;
+    display: block;
+    border-bottom: 1px solid #000;
+    width: 625px;
+    padding-top: 30px;
+}
+#cont3-1 > h3 {
+    padding-top: 60px;
+}
+#cont3-1 > p {
+    width: 835px;
+    padding-top: 20px;
+}
+#cont3-1 > small {
+    padding-top: 40px;
+    bottom: 100px;
+    left: 0;
+}
+
+#cont3-1 > .img2-3 {
+    position: absolute;
+    bottom: 65px;
+    right: 0;
+}
+
+#cont4 {
+    width: 960px;
+    height: 900px;
+    padding-top: 100px;
+    margin: 0 auto;
+    position: relative;
+ }
+
+#cont4 > .img3-1 {
+    height: 378px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+#cont4 > .img3-2 {
+    height: 378px;
+    padding-bottom: 40px;
+}
+
+#cont4 > h4 {
+    width: 335px;
+    float: left;
+}
+#cont4 > span {
+    float: left;
+    display: block;
+    border-bottom: 1px solid #000;
+    width: 625px;
+    padding-top: 30px;
+}
+#cont4 > h3 {
+    padding-top: 60px;
+}
+#cont4 > p {
+    width: 720px;
+    padding-top: 20px;
+}
+#cont4 > small {
+    padding-top: 40px;
+    bottom: 100px;
+    left: 0;
+}
+
+#cont4 > .img3-3 {
+    position: absolute;
+    top: 650px;
+    right: 0;
+}
+
+#cont5 {
+    width: 100%;
+    background-color: #f9f9f9;
+    padding-top: 100px;
+    
+}
+#cont5-1 {
+    width: 960px;
+    height: 1270px;
+    margin: 0 auto;
+    position: relative;
+ }
+#cont5-1 > .img4-1 {
+    width: 960px;
+    padding-bottom: 40px;
+}
+#cont5-1 > h4 {
+    width: 335px;
+    float: left;
+}
+#cont5-1 > span {
+    float: left;
+    display: block;
+    border-bottom: 1px solid #000;
+    width: 625px;
+    padding-top: 30px;
+}
+#cont5-1 > h3 {
+    padding-top: 60px;
+}
+#cont5-1 > .img4-2 {
+    position: absolute;
+    top: 710px;
+    left: 550px;
+}
+#cont5-1 > p {
+    width: 600px;
+    padding-top: 120px;
+    padding-right: 40px;
+}
+#cont5-1 > small {
+    padding-top: 40px;
+    
+}
+
+
+#cont5-1 > .img4-3 {
+    position: absolute;
+    right: 0;
+    top: 710px;
+}
+
+#cont6 {
+    width: 960px;
+    height: 1890px;
+    margin: 0 auto;
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 100px;
+}
+
+#cont6-1 {
+    width: 960px;
+    height: 80px;
+    border: 1px solid #000;
+    position: relative;
+    
+}
+#cont6-1 > h3 {
+    text-align: center;
+    line-height: 80px;
+}
+#cont6-1 > .tl {
+    position: absolute;
+    top: 30px;
+    left: 300px;
+}
+#cont6-1 > .tr {
+    position: absolute;
+    top: 30px;
+    right: 300px;
+}
+
+#cont6-2 {
+    padding-top: 60px;
+}
+#cont6-2 > h3 {
+    padding-bottom: 15px;
+}
+#cont6-2 > span {
+    display: block;
+    width: 200px;
+    height: 80px;
+    border-left: 1px solid #000;
+    
+}
+#cont6-2 > p {
+    padding-top: 15px;
+}
+
+#cont6-2-1 {
+    width: 460px;
+    height: 550px;
+    border: 1px solid #000;
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 0;
+    top: 250px;
+}
+#cont6-2-1 > .photo1 {
+    width: 380px;
+}
+#cont6-2-1 > .heart {
+    position: absolute;
+    padding-top: 20px;
+}
+#cont6-2-1 > p {
+    position: absolute;
+    padding-top: 20px;
+    right: 40px
+}
+
+#cont6-2-2 {
+    width: 460px;
+    height: 570px;
+    border: 1px solid #000;
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 530px;
+}
+#cont6-2-2 > .photo2 {
+    width: 380px;
+}
+#cont6-2-2 > .heart {
+    position: absolute;
+    padding-top: 20px;
+}
+#cont6-2-2 > p {
+    position: absolute;
+    padding-top: 20px;
+    right: 60px
+}
+
+
+#cont6-2-3 {
+    width: 460px;
+    height: 550px;
+    border: 1px solid #000;
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 0;
+    top: 840px;
+}
+#cont6-2-3 > .photo3 {
+    width: 380px;
+}
+#cont6-2-3 > .heart {
+    position: absolute;
+    padding-top: 20px;
+}
+#cont6-2-3 > p {
+    position: absolute;
+    padding-top: 20px;
+    right: 75px
+}
+
+#cont6-2-4 {
+    width: 460px;
+    height: 570px;
+    border: 1px solid #000;
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 1140px;
+}
+#cont6-2-4 > .photo4 {
+    width: 380px;
+}
+#cont6-2-4 > .heart {
+    position: absolute;
+    padding-top: 20px;
+}
+#cont6-2-4 > p {
+    position: absolute;
+    padding-top: 20px;
+    right: 80px
+}
+
+#cont6-2-5 {
+    width: 460px;
+    height: 550px;
+    border: 1px solid #000;
+    padding: 40px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 0;
+    top: 1430px;
+}
+#cont6-2-5 > .photo5 {
+    width: 380px;
+}
+#cont6-2-5 > .heart {
+    position: absolute;
+    padding-top: 20px;
+}
+#cont6-2-5 > p {
+    position: absolute;
+    padding-top: 20px;
+    right: 105px
+}
+
+#copy {
+    width: 960px;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 105px;
+}
+
+#copy > p {
+    line-height: 30px;
+    color: #999;
+    width: 140px;
+    float: left;
+    text-align: right;
+    border-top: 1px solid #999 ;
+    border-bottom: 1px solid #999;
+}
+
+
+
+
